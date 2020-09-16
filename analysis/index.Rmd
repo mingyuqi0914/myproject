@@ -11,4 +11,4 @@ editor_options:
 Welcome to my research website. Let's try something new. 
 
 * [Teeth growth analysis](first_analysis.html)
-* [Eric Zhang](https://github.com/EricccccZhang/EricccccZhang.github.io/blob/master/index.html)
+* [Sophie Son](https://sophieseuleson.github.io/myproject/)
