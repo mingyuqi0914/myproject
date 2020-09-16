@@ -8,7 +8,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website. Let's try something new. 
+Welcome to my research website!  
 
+Please click link below for an analysis of teeth growth:
 * [Teeth growth analysis](first_analysis.html)
+
+Please click link below for Sophie Son's home page:
 * [Sophie Son](https://sophieseuleson.github.io/myproject/)
